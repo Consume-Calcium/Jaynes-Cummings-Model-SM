@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ce0 = 1
-cg0 = 1
+cg0 = 0
 
 n = 10
 delta = 0
