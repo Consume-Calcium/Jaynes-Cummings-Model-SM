@@ -14,7 +14,7 @@
   - ([**Non-Resonant Rabi Oscillations d100.png**](https://github.com/Consume-Calcium/Jaynes-Cummings-Model-SM/blob/main/Rabi%20Oscillations/Non-Resonant%20Rabi%20Oscillations%20d100.png)) Plot for initially excited state, n = 10, Δ = 100 and λ = 1
 
 - ### ([**Energy Levels**](https://github.com/Consume-Calcium/Jaynes-Cummings-Model-SM/tree/main/Energy%20Levels)) Folder containing everything related to the energy levels of the atom-field system
-  - ([**Energy Levels.pdf**](https://github.com/Consume-Calcium/Jaynes-Cummings-Model-SM/blob/main/Energy%20Levels/Energy%20Levels.pdf)) Derivation of the energy levels from the full Jaynes-Cummings' Hamiltonian
+  - ([**Energy Levels.pdf**](https://github.com/Consume-Calcium/Jaynes-Cummings-Model-SM/blob/main/Energy%20Levels/Energy%20Levels.pdf)) Derivation of the energy levels from the full Jaynes-Cummings Hamiltonian
   - ([**Energy Levels.py**](https://github.com/Consume-Calcium/Jaynes-Cummings-Model-SM/blob/main/Energy%20Levels/Energy%20Levels.py)) Python code for plotting the energy levels
   - ([**Energy Levels.png**](https://github.com/Consume-Calcium/Jaynes-Cummings-Model-SM/blob/main/Energy%20Levels/Energy%20Levels.png)) Plot of the energy levels
 
